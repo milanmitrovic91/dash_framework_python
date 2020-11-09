@@ -1,9 +1,7 @@
 
-### This is place where I plan to store data applications I learned to make.
+#### Dataset represent all calls of people from NY who called for animal resque.
 
-#### Dataset represent all the calls of people who called for animal resque.
-
-#### Pie chart shows shares of call types per different dimensions. There is dropdown menu, so we can choose per which dimension we would like to see number of all calls.
+#### Pie chart shows shares of call types per different dimensions. There is dropdown menu, so we can choose per which dimension we would like to see number of all calls i.e. its shares.
 
 #### Metric: Number of calls (i.e. its share).
 #### Dimensions: Action Taken by Ranger, Age, Animal Health, Borough, Species, Species Status.
